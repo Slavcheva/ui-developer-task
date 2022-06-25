@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Alicia Keys: 'I felt I was from another planet'",
+      "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sl0Mgob3vvQ2NL4zRSbv46msmZLqCEfhkQ&usqp=CAU",
+      "excerpt": "The R&B star on feeling like an \"outsider\", police brutality and the advice she gave Billie Eilish.",
+      "category": "Entertainment & Arts"
+    },
+    {
+      "id": 2,
+      "title": "Alligator on gas snaps up Ig Nobel prize",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-wPD0Upy37c_zbApTG7YNWm2rHxa08MmBg&usqp=CAU",
+      "excerpt": "The 2020 Ig Nobel prizes honour crocodilian vocalisations, narcissistic eyebrows and vibrating worms.",
+      "category": "Science & Environment"
+    },
+    {
+      "id": 3,
+      "title": "Banksy loses battle with greetings card firm over 'flower bomber' trademark",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUVMZm55YKL8NBttVLwqUkty41tGSN5WwX0Q&usqp=CAU",
+      "excerpt": "The elusive artist was \"inconsistent with honest practices\" in the case, EU authorities say.",
+      "category": "Entertainment & Arts"
+    }
+  ]
+}
